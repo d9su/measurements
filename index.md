@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Window Measurement
 
-You can use the [editor on GitHub](https://github.com/d9su/measurements/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Dining room
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](./dining-room.jpg)
+顶离地高250cm，高190cm，宽205cm
 
-### Markdown
+### Living room
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](./living-room.jpg)
+顶离地高255cm，高201cm，宽105cm
 
-```markdown
-Syntax highlighted code block
+### Breakfast room
 
-# Header 1
-## Header 2
-### Header 3
+![iimage](./breakfast-room1.jpg)
+顶离地高250cm，高192cm，宽280cm
 
-- Bulleted
-- List
+![iimage](./breakfast-room2.jpg)
+顶离地高250cm，高192cm，宽100cm
 
-1. Numbered
-2. List
+### Family room
 
-**Bold** and _Italic_ and `Code` text
+![image](./family-room.jpg)
+顶离地高420cm，高375cm，宽318cm
 
-[Link](url) and ![Image](src)
-```
+### Master bedroom
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![image](./master-bedroom1.jpg)
+顶离地高245cm，高165cm，宽220cm
 
-### Jekyll Themes
+| Window 1 | Window 2 |
+| --- | --- |
+| ![image](./master-bedroom2.jpg) | ![image](./master-bedroom3.jpg) |
+顶离地高245cm，高165cm，宽220cm
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d9su/measurements/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](./master-bedroom4.jpg)
+顶离地高270cm，高222cm，宽205cm
 
-### Support or Contact
+### South bedroom 1
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](./first-south-bedroom.jpg)
+（杆）顶离地高242cm，高195cm，宽304cm
+
+### South bedroom 2
+
+![image](./second-south-bedroom1.jpg)
+顶离地高245cm，高185cm，宽220cm
+
+![image](./second-south-bedroom2.jpg)
+顶离地高242cm，高164cm，宽160cm
+
